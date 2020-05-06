@@ -1,0 +1,4 @@
+21:29:55,745 DEBUG devpinoyLogger:60 - Config file loaded !!!
+21:29:55,749 DEBUG devpinoyLogger:76 - Object repo config file loaded !!!
+21:30:04,794 DEBUG devpinoyLogger:101 - Navigated tohttp://www.way2automation.com/angularjs-protractor/banking/#/login
+21:30:29,877 DEBUG devpinoyLogger:130 - Test successfully executed
